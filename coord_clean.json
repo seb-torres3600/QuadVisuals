@@ -1,0 +1,88 @@
+[
+    {
+        "coordinates": [
+            0.1,
+            0.1,
+            0.1,
+            -0.1,
+            0.0,
+            -0.2
+        ],
+        "id": "1",
+        "shape": "triangle"
+    },
+    {
+        "coordinates": [
+            -0.7,
+            -1.0,
+            1.0,
+            0.7
+        ],
+        "id": "2",
+        "shape": "rectangle"
+    },
+    {
+        "coordinates": [
+            0.7,
+            1.0,
+            -1.0,
+            -0.7
+        ],
+        "id": "3",
+        "shape": "rectangle"
+    },
+    {
+        "coordinates": [
+            -0.7,
+            -1.0,
+            -1.0,
+            -0.7
+        ],
+        "id": "4",
+        "shape": "rectangle"
+    },
+    {
+        "coordinates": [
+            0.0,
+            0.0,
+            0.1,
+            200.0
+        ],
+        "id": "5",
+        "shape": "circle"
+    },
+    {
+        "coordinates": [
+            -0.1,
+            0.2,
+            0.1,
+            0.2,
+            0.0,
+            0.3
+        ],
+        "id": "6",
+        "shape": "triangle"
+    },
+    {
+        "coordinates": [
+            1.0,
+            0.7,
+            1.0,
+            0.7
+        ],
+        "id": "7",
+        "shape": "rectangle"
+    },
+    {
+        "coordinates": [
+            -0.1,
+            -0.2,
+            0.1,
+            -0.2,
+            0.0,
+            -0.3
+        ],
+        "id": "8",
+        "shape": "triangle"
+    }
+]
